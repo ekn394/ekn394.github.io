@@ -3,7 +3,7 @@
         "name": "Evan Nordquist",
         "description": "Aspiring Full Stack Developer, but open to suggestions",
         "image": "profilepic.jpg",
-        "bio": "Enthusiastic about: Cryptography, Linux, Star Trek, Bitcoin, Scuba Diving.",
+        "bio": "Enthusiastic about: Cryptography, Linux, Star Trek, Scuba Diving.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "nordquist.evan@gmail.com",
         "phone": "555-555-5555",
@@ -82,7 +82,7 @@
                 "level": "0%"
             },
             {
-                "name": "MongoDB",
+                "name": "Mongo-DB",
                 "level": "0%"
             }
 
@@ -94,13 +94,13 @@
                 "title": "PCBs & Electronics",
                 "category": "Designed, programmed, and sold Hobby Electronics kits.",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
+                "url": "https://nordquistelectronics.square.site/"
             },
             {
                 "title": "Battlebots",
                 "category": "Pit Crew for Battlebots Team - Bucktooth Burl.",
                 "image": "project2.jpg",
-                "url": "https://www.google.com"
+                "url": "https://www.youtube.com/watch?v=M5Lgpsl71EI"
             },
             {
                 "title": "Instructor for Google's /code:makers_",
