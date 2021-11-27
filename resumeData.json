@@ -1,9 +1,9 @@
 {
     "main": {
         "name": "Evan Nordquist",
-        "description": "Aspiring Full Stack Developer, but open to suggestions",
+        "description": "Aspiring Web Developer, but open to suggestions",
         "image": "profilepic.jpg",
-        "bio": "Enthusiastic about: Cryptography, Linux, Star Trek, Scuba Diving.",
+        "bio": "Enthusiastic about: Programming, Linux, Scuba Diving, Star Trek, Cryptography.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "nordquist.evan@gmail.com",
         "phone": "555-555-5555",
@@ -11,8 +11,8 @@
         "project": "https://github.com/",
         "address": {
             "street": "(Your Street)",
-            "city": "Waterloo",
-            "state": "Ontario"
+            "city": "Miami",
+            "state": "Manitoba"
         },
         "website": "https://github.com/",
         "resumedownload": "https://github.com/",
@@ -42,8 +42,8 @@
             {
                 "company": "Kitchener Public Library",
                 "title": "Associate - Heffner Studio",
-                "years": "December 2016 - Present",
-                "description": "Develop and teach technology skills classes on a weekly basis."
+                "years": "Fall 2016 - Fall 2021",
+                "description": "Develop and teach technology skills classes on a weekly basis.  Technical support for the satellite library branches."
             },
             {
                 "company": "SCI-FI Science Camps - U of S Engineering",
@@ -54,12 +54,12 @@
         ],
         "skills": [
             {
-                "name": "Python",
-                "level": "65%"
-            },
-            {
                 "name": "HTML/CSS",
                 "level": "70%"
+            },
+            {
+                "name": "Python",
+                "level": "65%"
             },
             {
                 "name": "JavaScript",
@@ -67,23 +67,19 @@
             },
             {
                 "name": "BASH SHELL",
-                "level": "15%"
+                "level": "35%"
             },
             {
-                "name": "React",
+                "name": "React - To Learn",
+                "level": "3%"
+            },
+            {
+                "name": "NodeJS - To Learn",
+                "level": "2%"
+            },
+            {
+                "name": "SQL - To Learn",
                 "level": "1%"
-            },
-            {
-                "name": "NodeJS",
-                "level": "1%"
-            },
-            {
-                "name": "SQL",
-                "level": "0%"
-            },
-            {
-                "name": "Mongo-DB",
-                "level": "0%"
             }
 
         ]
