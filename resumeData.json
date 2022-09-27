@@ -1,115 +1,121 @@
 {
-    "main": {
-        "name": "Evan Nordquist",
-        "description": "Aspiring Web Developer, but open to suggestions",
-        "image": "profilepic.jpg",
-        "bio": "Enthusiastic about: Programming, Linux, Scuba Diving, Star Trek, Cryptography.",
-        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-        "email": "nordquist.evan@gmail.com",
-        "phone": "555-555-5555",
-        "github": "https://github.com/",
-        "project": "https://github.com/",
-        "address": {
-            "street": "(Your Street)",
-            "city": "Miami",
-            "state": "Manitoba"
-        },
-        "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
-        "social": [
-            {
-                "name": "linkedin",
-                "url": "https://www.linkedin.com/in/evan-nordquist/",
-                "className": "fa fa-linkedin"
-            },
-            {
-                "name": "github",
-                "url": "https://github.com/ekn394",
-                "className": "fa fa-github"
-            }
-        ]
+  "main": {
+    "name": "Evan Nordquist",
+    "description": "Science and Tech Educator",
+    "image": "profilepic.jpg",
+    "bio": "Enthusiastic about: Programming, Linux, Scuba Diving, Star Trek, Cryptography, Learning new things every day.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nordquist.evan@gmail.com",
+    "phone": "555-555-5555",
+    "github": "https://github.com/",
+    "project": "https://github.com/",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Miami",
+      "state": "Manitoba"
     },
-    "resume": {
-        "education": [
-            {
-                "school": "University of Saskatchewan",
-                "degree": "Bachelor of Science, Palaeobiology",
-                "graduated": "April 2010",
-                "description": "Received the Convocation Award for having the top overall average in my graduating class.  There is at least some chance that I was the only person in my graduating class."
-            }
-        ],
-        "work": [
-            {
-                "company": "Kitchener Public Library",
-                "title": "Associate - Heffner Studio",
-                "years": "Fall 2016 - Fall 2021",
-                "description": "Develop and teach technology skills classes on a weekly basis.  Technical support for the satellite library branches."
-            },
-            {
-                "company": "SCI-FI Science Camps - U of S Engineering",
-                "title": "Director",
-                "years": "2012 - 2016",
-                "description": "Managed a team of STEM educators.  Brought hands-on science and technology programming to over 10,000 students per year."
-            }
-        ],
-        "skills": [
-            {
-                "name": "HTML/CSS",
-                "level": "70%"
-            },
-            {
-                "name": "Python",
-                "level": "65%"
-            },
-            {
-                "name": "JavaScript",
-                "level": "50%"
-            },
-            {
-                "name": "BASH SHELL",
-                "level": "35%"
-            },
-            {
-                "name": "React - To Learn",
-                "level": "3%"
-            },
-            {
-                "name": "NodeJS - To Learn",
-                "level": "2%"
-            },
-            {
-                "name": "SQL - To Learn",
-                "level": "1%"
-            }
+    "website": "https://github.com/",
+    "resumedownload": "https://github.com/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/evan-nordquist/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ekn394",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "University of Saskatchewan",
+        "degree": "Bachelor of Science, Palaeobiology",
+        "graduated": "April 2010",
+        "description": "Received the Convocation Award for having the top overall average in my graduating class.  There is at least some chance that I was the only person in my graduating class."
+      }
+    ],
+    "work": [
+      {
+        "company": "Prairie Rose School Division",
+        "title": "Computer Tech",
+        "years": "Winter - Summer 2022",
+        "description": "Tech Support including Chromebook and iPad repairs."
+      },
 
-        ]
-    },
-    "portfolio": {
-        "projects": [
-            {
-                "title": "PCBs & Electronics",
-                "category": "Designed, programmed, and sold Hobby Electronics kits.",
-                "image": "project1.jpg",
-                "url": "https://nordquistelectronics.square.site/"
-            },
-            {
-                "title": "Battlebots",
-                "category": "Pit Crew for Battlebots Team - Bucktooth Burl.",
-                "image": "project2.jpg",
-                "url": "https://www.youtube.com/watch?v=M5Lgpsl71EI"
-            },
-            {
-                "title": "Instructor for Google's /code:makers_",
-                "category": "Iqaluit, Nunavut",
-                "image": "project3.jpg",
-                "url": "https://www.cbc.ca/player/play/2660728213"
-            },
-            {
-                "title": "Fossil Replica Sculptor",
-                "category": "Museum of Natural Sciences, Saskatoon, SK",
-                "image": "project4.jpg",
-                "url": "https://artsandscience.usask.ca/news/n/1652/"
-            }
-        ]
-    }
+      {
+        "company": "Kitchener Public Library",
+        "title": "Associate - Heffner Studio",
+        "years": "Fall 2016 - Fall 2021",
+        "description": "Develop and teach technology skills classes on a weekly basis.  Technical support for the satellite library branches."
+      },
+      {
+        "company": "SCI-FI Science Camps - U of S Engineering",
+        "title": "Director",
+        "years": "2012 - 2016",
+        "description": "Managed a team of STEM educators.  Brought hands-on science and technology programming to over 10,000 students per year."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Volunteer Science Teacher",
+        "level": "100%"
+      },
+      {
+        "name": "Python Programming",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "BASH SHELL",
+        "level": "35%"
+      },
+      {
+        "name": "Front End Web Dev",
+        "level": "60%"
+      },
+      {
+        "name": "Hobby Electronics Design",
+        "level": "70%"
+      },
+      {
+        "name": "Rubik's Cube Solving",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "PCBs & Electronics",
+        "category": "Designed, programmed, and sold Hobby Electronics kits.",
+        "image": "project1.jpg",
+        "url": "https://nordquistelectronics.square.site/"
+      },
+      {
+        "title": "Battlebots",
+        "category": "Pit Crew for Battlebots Team - Bucktooth Burl.",
+        "image": "project2.jpg",
+        "url": "https://www.youtube.com/watch?v=M5Lgpsl71EI"
+      },
+      {
+        "title": "Instructor for Google's /code:makers_",
+        "category": "Iqaluit, Nunavut",
+        "image": "project3.jpg",
+        "url": "https://www.cbc.ca/player/play/2660728213"
+      },
+      {
+        "title": "Fossil Replica Sculptor",
+        "category": "Museum of Natural Sciences, Saskatoon, SK",
+        "image": "project4.jpg",
+        "url": "https://artsandscience.usask.ca/news/n/1652/"
+      }
+    ]
+  }
 }
