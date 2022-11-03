@@ -3,7 +3,7 @@
     "name": "Evan Nordquist",
     "description": "Science and Tech Educator",
     "image": "profilepic.jpg",
-    "bio": "Enthusiastic about: Programming, Linux, Scuba Diving, Star Trek, Cryptography, Learning new things every day.",
+    "bio": "Enthusiastic about: Learning, Teaching, Programming, Linux, Scuba Diving, Star Trek, Cryptography.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "nordquist.evan@gmail.com",
     "phone": "555-555-5555",
@@ -11,7 +11,7 @@
     "project": "https://github.com/",
     "address": {
       "street": "(Your Street)",
-      "city": "Miami",
+      "city": "Winnipeg",
       "state": "Manitoba"
     },
     "website": "https://github.com/",
