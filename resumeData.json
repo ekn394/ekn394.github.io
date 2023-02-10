@@ -61,15 +61,16 @@
     ],
     "skills": [
       {
-        "name": "Volunteer Science Teacher",
-        "level": "100%"
-      },
-      {
         "name": "Python Programming",
         "level": "75%"
       },
       {
         "name": "JavaScript",
+        "level": "60%"
+      },
+
+      {
+        "name": "Java",
         "level": "50%"
       },
       {
@@ -78,15 +79,15 @@
       },
       {
         "name": "Front End Web Dev",
-        "level": "60%"
-      },
-      {
-        "name": "Hobby Electronics Design",
         "level": "70%"
       },
       {
+        "name": "Hobby Electronics Design",
+        "level": "80%"
+      },
+      {
         "name": "Rubik's Cube Solving",
-        "level": "90%"
+        "level": "100%"
       }
     ]
   },
@@ -105,10 +106,10 @@
         "url": "https://www.youtube.com/watch?v=M5Lgpsl71EI"
       },
       {
-        "title": "Instructor for Google's /code:makers_",
-        "category": "Iqaluit, Nunavut",
+        "title": "Coding Instructor Extraordinaire",
+        "category": "Kitchener Public Library",
         "image": "project3.jpg",
-        "url": "https://www.cbc.ca/player/play/2660728213"
+        "url": "https://www.youtube.com/watch?v=afvOPd6dSSI"
       },
       {
         "title": "Fossil Replica Sculptor",
