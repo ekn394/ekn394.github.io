@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Evan Nordquist",
-    "description": "Science and Tech Educator",
+    "description": "Tech troubleshooter by day, Comp-Sci student by night...class",
     "image": "profilepic.jpg",
     "bio": "Enthusiastic about: Learning, Teaching, Programming, Linux, Scuba Diving, Star Trek, Cryptography.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -32,6 +32,12 @@
   "resume": {
     "education": [
       {
+        "school": "Red River College Polytech",
+        "degree": "Front End Web Development ",
+        "graduated": "Jan 2023 - Present",
+        "description": "Taking online classes part time on evenings and weekends.  Classes so far include: Web Dev I, Java, SQL , I.T. Fundamentals, Object Oriented Programming, Project Management, Web Dev II."
+      },
+      {
         "school": "University of Saskatchewan",
         "degree": "Bachelor of Science, Palaeobiology",
         "graduated": "April 2010",
@@ -40,16 +46,21 @@
     ],
     "work": [
       {
+        "company": "Activate Games",
+        "title": "Tech Support",
+        "years": "2023 - Present",
+        "description": "Tech Support including remote troubleshooting of Windows and Ubuntu Desktops, as well as Raspberry Pis."
+      },      
+      {
         "company": "Prairie Rose School Division",
         "title": "Computer Tech",
-        "years": "Winter - Summer 2022",
-        "description": "Tech Support including Chromebook and iPad repairs."
+        "years": "2022",
+        "description": "Tech Support including Chromebook and iPad repairs, configuring wireless access points, and troubleshooting projector and printer connection issues."
       },
-
       {
         "company": "Kitchener Public Library",
         "title": "Associate - Heffner Studio",
-        "years": "Fall 2016 - Fall 2021",
+        "years": "2016 - 2021",
         "description": "Develop and teach technology skills classes on a weekly basis.  Technical support for the satellite library branches."
       },
       {
@@ -62,33 +73,32 @@
     "skills": [
       {
         "name": "Python Programming",
-        "level": "75%"
+        "level": "70%"
       },
       {
         "name": "JavaScript",
-        "level": "60%"
-      },
-
-      {
-        "name": "Java",
         "level": "50%"
       },
       {
-        "name": "BASH SHELL",
-        "level": "35%"
+        "name": "Java",
+        "level": "40%"
+      },
+      {
+        "name": "Linux Command Line Magic",
+        "level": "50%"
       },
       {
         "name": "Front End Web Dev",
-        "level": "70%"
+        "level": "65%"
       },
       {
         "name": "Hobby Electronics Design",
         "level": "80%"
-      },
-      {
-        "name": "Rubik's Cube Solving",
-        "level": "100%"
+      },      {
+        "name": "Teaching Tech Concepts",
+        "level": "90%"
       }
+
     ]
   },
   "portfolio": {
