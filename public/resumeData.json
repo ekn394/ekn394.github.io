@@ -46,9 +46,16 @@
     ],
     "work": [
       {
+        "company": "Louis Riel School Division",
+        "title": "Support Technician",
+        "years": "2023 - Present",
+        "description": "Tech Support including maintenance of laptops, desktops, and tablets."
+      },
+      
+      {
         "company": "Activate Games",
         "title": "Tech Support",
-        "years": "2023 - Present",
+        "years": "2023",
         "description": "Tech Support including remote troubleshooting of Windows and Ubuntu PCs, Raspberry Pis, and iOS devices."
       },      
       {
